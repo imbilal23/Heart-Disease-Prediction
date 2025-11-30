@@ -1,0 +1,23 @@
+========== HEART DISEASE PREDICTION REPORT ==========
+
+PATIENT INFORMATION:
+ age  sex  cp  trestbps  chol  fbs  restecg  thalach  exang  oldpeak  slope  ca  thal
+ 63   1    0     145     233   1      2       150      0      2.3      2     0    2  
+
+PREDICTION:
+PREDICTION: NO HEART DISEASE DETECTED
+DISEASE PROBABILITY: 0.2278
+RISK LEVEL: LOW-MODERATE RISK
+
+RISK FACTORS:
+
+ - Age 63.0 (>45 years)
+ - Cholesterol 233.0 (>200 mg/dL)
+ - Blood Pressure 145.0 (>140 mmHg)
+
+RECOMMENDATIONS:
+
+ - Regular health monitoring
+ - Focus on risk factor reduction
+ - Annual cardiac screening
+
