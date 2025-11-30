@@ -28,8 +28,13 @@ Evaluated The model using
    * Classification Report
    * Confusion Metrix
    * Area Under The Curve
-     
-It Scored 84.2 accuracy
 # Save Model
 Save the model and load it to make prediction.
-You just have to provide an csv file of your data and the model will perform predictions and tell you probability of disease, It will also give you recomendations based on prediction. It will also show you risk factors 
+
+You just have to provide an csv file of your data and the model will perform predictions.
+# Outcomes
+It will generate an report which shows
+* Prediction of Heart Disease
+* Probability of Disease
+* Calculate Risk Factors
+* Provide Recomendations
