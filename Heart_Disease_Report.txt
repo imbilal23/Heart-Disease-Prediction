@@ -1,0 +1,22 @@
+========== HEART DISEASE PREDICTION REPORT ==========
+
+PATIENT INFORMATION:
+ Age Sex    Chest Pain    Blood Pressure  Cholesterol  Blood Sugar    Rest ECG     Max Heart Rate  Induced Angina  Oldpeak    Slope     Major Vessels Thalassemia 
+ 63  Male typical angina       145           233          True     lv hypertrophy       150            False        2.3    downsloping       0        fixed defect
+PREDICTION:
+HEART DISEASE: NO HEART DISEASE DETECTED
+DISEASE PROBABILITY: 0.2278
+RISK LEVEL: LOW-MODERATE RISK
+
+RISK FACTORS:
+
+ - Age 63 (>45 years)
+ - Cholesterol 233 (>200 mg/dL)
+ - Blood Pressure 145 (>140 mmHg)
+
+RECOMMENDATIONS:
+
+ - Regular health monitoring
+ - Focus on risk factor reduction
+ - Annual cardiac screening
+
